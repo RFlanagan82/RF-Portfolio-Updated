@@ -1,0 +1,95 @@
+body {
+    background-image: url('https://assets.awwwards.com/awards/images/2015/04/pattern.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+    width: auto;
+}
+.navbar-brand {
+    color: white!important;
+    background-color: teal;
+    font-weight: bold;
+    font-size:26px;
+}
+
+.container {
+    margin:50px 0px 50px 0px;
+}
+
+.contentgroup {
+    background-color: white;
+    margin-left:100px;
+}
+
+.galleryimage {
+    width: auto;
+    margin-bottom: 20px;
+}
+.headertext{
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 36px;
+    color: teal;
+    margin-top: 15px;
+}
+
+.contacttext {
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 36px;
+    color: teal;
+}
+
+#contentbox {
+    margin-bottom:30px;
+}
+
+form {
+    margin-right:100px;
+    margin-left:30px;
+}
+.btn-primary {
+    margin-top: 5px;
+    height:50px;
+    width:100px;
+    background-color: teal;
+    border: none;
+    margin-left: -15px!important;
+    border-radius: 0px;
+}
+
+.ryanpic {
+    margin-right:20px;
+    height:150px;
+    width:150px;
+    float:left;
+}
+
+.biocopy {
+    margin:5px;
+    padding:10px;
+}
+
+.text-center {
+    position: fixed;
+    color: lightgray;
+    background-color:#606060;
+    opacity: .70;
+    bottom : 0;
+    height:50px;
+    width: 100%;
+    padding:10px;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Lato';
+    border-top:8px solid teal;
+
+}
+
+
+
+  
