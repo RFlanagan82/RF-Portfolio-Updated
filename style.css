@@ -1,15 +1,26 @@
 body {
-    background-image: url('https://assets.awwwards.com/awards/images/2015/04/pattern.jpg');
-    background-repeat: no-repeat;
+    background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-029.jpg');
+    background-repeat: repeat;
     background-size: 100%;
     background-size: cover;
     width: auto;
 }
 .navbar-brand {
-    color: white!important;
-    background-color: teal;
+    color: whitesmoke!important;
     font-weight: bold;
     font-size:26px;
+}
+.navigation {
+color:whitesmoke;
+background-color: navy!important;
+}
+
+.nav-link {
+    color: whitesmoke!important;
+}
+
+.aboutme {
+    display: flex;
 }
 
 .container {
@@ -30,7 +41,7 @@ body {
     font-weight: bold;
     letter-spacing: 2px;
     font-size: 36px;
-    color: teal;
+    color: navy;
     margin-top: 15px;
 }
 
@@ -54,7 +65,7 @@ form {
     margin-top: 5px;
     height:50px;
     width:100px;
-    background-color: teal;
+    background-color: navy;
     border: none;
     margin-left: -15px!important;
     border-radius: 0px;
@@ -86,10 +97,27 @@ form {
     align-items: center;
     font-size: 20px;
     font-family: 'Lato';
-    border-top:8px solid teal;
+    border-top:8px solid navy;
 
 }
 
+.portfolioheader {
+    margin-left:30px;
+    margin-bottom:20px;
+}
 
+.portfolio-content {
+    display: inline;
+    padding: 10px;
+    margin: 25px;
+}
 
-  
+.content-row1 {
+    margin-bottom: 30px;
+    margin-left:20px;
+}
+
+.content-row2 {
+    margin-bottom: 30px;
+    margin-left:20px;
+}
