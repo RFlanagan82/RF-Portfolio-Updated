@@ -16,7 +16,12 @@ All of the files necessary to run this website are available in [this repository
 A few initial challenges formatting my portfolio images but then I realized that my div containers were redundant in a few places. I reformatted and was able to correct the issue.
 
 Another issue was around adding my picture back into the About page. For some reason it wouldn't accept the path of the picture that was in my assets folder.
+![](assets/issue_with_my_profile_picture.png)
 
+Then I realized that I was editing the wrong div in my HTML. I found the issue and resolved.
+
+Additionally I found that my email link on the About page didn't work until I added "mailto:" before I added my email address.
+[Resource: Tutorials Point](https://www.tutorialspoint.com/html/html_email_links.htm#:~:text=HTML%20tag%20provides%20you,mailto%20instead%20of%20using%20http.)
 
 ## License
 
