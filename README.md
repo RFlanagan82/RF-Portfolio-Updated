@@ -5,17 +5,17 @@ The portflio site contained in this repository has been created from the skills 
 
 This site contains 3 pages to include:
 
-- [Index Page]()
-- [Portfolio]()
-- [Contact]()
+- [Index Page](https://github.com/RFlanagan82/RF-Portfolio-Updated/blob/master/index.html)
+- [Portfolio](https://github.com/RFlanagan82/RF-Portfolio-Updated/blob/master/portfolio.html)
+- [Contact](https://github.com/RFlanagan82/RF-Portfolio-Updated/blob/master/contact.html)
 
 ## Usage
-All of the files necessary to run this website are available in [this repository]().
+All of the files necessary to run this website are available in [this repository](https://github.com/RFlanagan82/RF-Portfolio-Updated).
 
 ## Outstanding Issues
+A few initial challenges formatting my portfolio images but then I realized that my div containers were redundant in a few places. I reformatted and was able to correct the issue.
 
-
-## Contributions/Credits
+Another issue was around adding my picture back into the About page. For some reason it wouldn't accept the path of the picture that was in my assets folder.
 
 
 ## License
