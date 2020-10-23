@@ -10,7 +10,7 @@ This site contains 3 pages to include:
 - [Contact](https://github.com/RFlanagan82/RF-Portfolio-Updated/blob/master/contact.html)
 
 ## Visit My Portfolio
-[Click here to access my portfolio](https://rflanagan82.github.io/RF-Portfolio-Updated/index.html)
+[Click here to access my portfolio](https://rflanagan82.github.io/RF-Portfolio-starter/)
 
 ## Usage
 All of the files necessary to run this website are available in [this repository](https://github.com/RFlanagan82/RF-Portfolio-Updated).
